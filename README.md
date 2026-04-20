@@ -9,13 +9,13 @@
 ### 🛠 Tech Stack
 
 **Languages**
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,php,js,cpp,cs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,php,js,html,css)](https://skillicons.dev)
 
 **Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,qt)](https://skillicons.dev)
 
 **Databases & Tools**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,githubactions)](https://skillicons.dev)
 
 ---
 
