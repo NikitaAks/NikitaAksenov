@@ -1,1 +1,2 @@
-# NikitaAksenov
+# Привет, я Никита! 👋
+## Developer (Go / Python)
