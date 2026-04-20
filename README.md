@@ -16,14 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ExVol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nikita's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExVol&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📫 Connect with me
 <a href="https://t.me/ExVol">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
